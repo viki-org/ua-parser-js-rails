@@ -7,7 +7,7 @@ This is a gem that makes [ua-parser-js](https://github.com/faisalman/ua-parser-j
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'ua-parser-js-rails', github: 'wudragonfly/ua-parser-js-rails'
+gem 'ua-parser-js-rails', github: 'viki-org/ua-parser-js-rails'
 ```
 
 And then execute:
